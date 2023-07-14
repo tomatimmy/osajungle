@@ -1,5 +1,5 @@
 :root {
-    --color-primary: #1f7d0f;
+    --color-primary: #78ac00;
 }
 
 /* Chrome, Safari, Edge, Opera */
@@ -381,11 +381,11 @@ $sidebar-color: #333;
 }
 header.header-nav.menu_style_home_one .ace-responsive-menu li.add_listing {
     border: 2px solid transparent;
-    border-color: green;
+    border-color: #78ac00;
     transition: 0.3s ease-in-out;
 }
 header.header-nav.menu_style_home_one .ace-responsive-menu li.add_listing:hover {
-    background-color: green !important;
+    background-color: #78ac00 !important;
     border-color: white;
     a {
         color: white !important;

@@ -41,7 +41,7 @@ module.exports = [
     ],
     built: "2013",
     amenities: "air-conditioning",
-    featured: "sale",
+    featured: "Nuevo",
     created_at: 1667181268893,
   },
   {
@@ -86,7 +86,7 @@ module.exports = [
     ],
     built: "2014",
     amenities: "barbeque",
-    featured: "rent",
+    featured: "Nuevo",
     created_at: 1667181256361,
   },
   {
@@ -131,7 +131,7 @@ module.exports = [
     ],
     built: "2015",
     amenities: "gym",
-    featured: "sale",
+    featured: "Nuevo",
     created_at: 1667181247152,
   },
   {
@@ -176,7 +176,7 @@ module.exports = [
     ],
     built: "2013",
     amenities: "air-conditioning",
-    featured: "sale",
+    featured: "Nuevo",
     created_at: 1667181268893,
   },
   {
@@ -221,7 +221,7 @@ module.exports = [
     ],
     built: "2014",
     amenities: "barbeque",
-    featured: "rent",
+    featured: "Nuevo",
     created_at: 1667181256361,
   },
   {
@@ -266,7 +266,7 @@ module.exports = [
     ],
     built: "2015",
     amenities: "gym",
-    featured: "sale",
+    featured: "Nuevo",
     created_at: 1667181247152,
   },
   {
@@ -311,7 +311,7 @@ module.exports = [
     ],
     built: "2013",
     amenities: "air-conditioning",
-    featured: "sale",
+    featured: "Nuevo",
     created_at: 1667181268893,
   },
   {
@@ -356,7 +356,7 @@ module.exports = [
     ],
     built: "2014",
     amenities: "barbeque",
-    featured: "rent",
+    featured: "Nuevo",
     created_at: 1667181256361,
   },
   {
@@ -401,7 +401,7 @@ module.exports = [
     ],
     built: "2015",
     amenities: "gym",
-    featured: "sale",
+    featured: "Nuevo",
     created_at: 1667181247152,
   },
   {
@@ -446,7 +446,7 @@ module.exports = [
     ],
     built: "2013",
     amenities: "air-conditioning",
-    featured: "sale",
+    featured: "Nuevo",
     created_at: 1667181268893,
   },
   {
@@ -536,7 +536,7 @@ module.exports = [
     ],
     built: "2015",
     amenities: "gym",
-    featured: "sale",
+    featured: "Nuevo",
     created_at: 1667181247152,
   }
 ];

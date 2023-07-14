@@ -146,7 +146,7 @@ const FeaturedItem = () => {
             <div className="thmb_cntnt">
               <ul className="tag mb0">
                 <li className="list-inline-item">
-                  <a href="#">Featured</a>
+                  <a href="#">Destacado</a>
                 </li>
                 <li className="list-inline-item">
                   <a href="#" className="text-capitalize">
@@ -167,10 +167,10 @@ const FeaturedItem = () => {
                 </li>
               </ul>
 
-              <Link href={`/listing-details-v1/${item.id}`}>
+              <Link href={`/detalle/${item.id}`}>
                 <a className="fp_price">
                   ${item.price}
-                  <small>/mo</small>
+                  {/* <small>/mo</small> */}
                 </a>
               </Link>
             </div>
@@ -179,7 +179,7 @@ const FeaturedItem = () => {
             <div className="tc_content">
               <p className="text-thm">{item.type}</p>
               <h4>
-                <Link href={`/listing-details-v1/${item.id}`}>
+                <Link href={`/detalle/${item.id}`}>
                   <a>{item.title}</a>
                 </Link>
               </h4>
